@@ -38,7 +38,7 @@ class Product {
 }
 
 final List<Product> allProducts = [
-  Product("عسل سدر ملكي", "سدر", 300.0, "images/Royal Sider.jpg", 5.0),
+  Product("عسل سدر", "سدر", 300.0, "images/Royal Sider.jpg", 5.0),
   Product("العسل الجبلي", "جبلي", 120.0, "images/Mountain Honey.jpg", 4.5),
   Product("عسل سمره", "سمره", 200.0, "images/Samra.jpeg", 4.8),
   Product("عسل المراعي", "مراعي", 180.0, "images/Pastures.png", 4.2),
